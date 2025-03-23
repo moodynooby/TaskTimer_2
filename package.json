@@ -1,5 +1,5 @@
 {
-  "name": "superProductivity",
+  "name": "task_timer_2",
   "version": "12.0.1",
   "description": "ToDo list and Time Tracking",
   "keywords": [
@@ -9,13 +9,13 @@
     "GitHub",
     "Time Tracking"
   ],
-  "homepage": "https://super-productivity.com",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git://github.com/johannesjo/super-productivity.git"
+    "url": "git://github.com/moodynooby/task_timer_2.git"
   },
-  "license": "MIT",
-  "author": "Johannes Millan <contact@super-productivity.com> (http://super-productivity.com)",
+  "license": "MPL",
+  "author": "Manas Doshi",
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick --staged && npm run lint",
